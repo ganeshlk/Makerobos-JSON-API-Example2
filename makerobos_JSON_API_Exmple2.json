@@ -1,0 +1,43 @@
+{
+    "entries": [
+        {
+            "template_type": "carousel",
+            "shadow": true,
+            "preview":"square",
+            "slides": [
+                {
+                    "title": "Royal Sundaram General Insurance",
+                    "subtitle": "24369",
+                    "image_url": "http://steffen-s.com/wp-content/uploads/2016/04/NZ-Landscape-3-600x400.jpg",
+                    "buttons": [
+                        {
+                            "type": "url",
+                            "url": "https://b2capistaging.insurancedekho.com/car-insurance/quotes?request=5d35e1c125b99f3f296ff5c2&quoteReferenceNumber=BA503146VPC0051297",
+                            "webview_height": "new",
+                            "title": "Buy Now 1"
+                        },
+                        {
+                            "type": "url",
+                            "url": "https://b2capistaging.insurancedekho.com/car-insurance/quotes?request=5d35e1c125b99f3f296ff5c2&quoteReferenceNumber=BA503146VPC0051297",
+                            "webview_height": "new",
+                            "title": "Buy Now 2"
+                        }
+                    ]
+                },
+                {
+                    "title": "DHFL General Insurance",
+                    "subtitle": "54965",
+                    "image_url": "http://steffen-s.com/wp-content/uploads/2016/04/NZ-Landscape-3-600x400.jpg",
+                    "buttons": [
+                        {
+                            "type": "url",
+                            "url": "https://b2capistaging.insurancedekho.com/car-insurance/quotes?request=5d35e1c125b99f3f296ff5c2&quoteReferenceNumber=EEuo2QTBe",
+                            "webview_height": "new",
+                            "title": "Buy Now"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
